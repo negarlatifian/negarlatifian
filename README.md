@@ -1,7 +1,6 @@
 <!-- ![myfile](https://github.com/negarlatifian/negarlatifian/blob/main/face.gif) -->
-<div style="text-align: center;">
+
 <img src="https://github.com/negarlatifian/negarlatifian/blob/main/face.gif" width="300" height="300" style= "display: block; margin-right: auto; margin-left: auto;" />
-</div>
 # Hi I'm Nila 👋🏽:
 🔭 I’m currently working on Data Visualization<br>👯 I’m looking to collaborate on Frontend Dev Projects<br>🌱 I’m currently learning Threejs & D3<br>💬 Ask me about anything code related would love to help or look for the answer together with you<br>📸 I am also a Photo-based artist 
 
