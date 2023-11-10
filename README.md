@@ -5,7 +5,7 @@
   
 
   
-# Hi I'm Nila 👋🏽:
+# Hi I'm Neela 👋🏽:
 🔭 I’m currently working on Data Visualization<br>👩🏻‍💻🧑🏽‍💻👩🏽‍💻 I’m looking to collaborate on Frontend Dev Projects<br> 🧠 I’m currently learning Threejs & D3<br>💬 Ask me about anything code related would love to help or look for the answer together with you<br>📸 I am also a Photo-based artist 
 
 
